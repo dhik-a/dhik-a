@@ -1,6 +1,7 @@
 # Hi there 👋
 
-  My name is Andhika Haidar Fadhilah, a software engineer from <img src="https://github.com/alexerlandsson/flag-icons/blob/master/flags/id.png" width="24" height="24"> <br/>
+  My name is Andhika Haidar Fadhilah, a software engineer from Indonesia <br/>
+  You can call me Dhika <br/>
   
 <div>
   Things I code with:
