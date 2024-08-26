@@ -1,6 +1,6 @@
 # Hi there 👋
 
-  My name is Andhika Haidar Fadhilah, a software engineer from Indonesia specializing in mobile and front-end. <br/>
+  My name is Andhika Haidar Fadhilah. I make mobile apps for living and mess around with game development for hobby. <br/>
   You can call me Dhika. <br/>
   
 <div>
