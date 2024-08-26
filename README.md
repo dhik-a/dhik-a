@@ -1,6 +1,6 @@
 # Hi there 👋
 
-  My name is Andhika Haidar Fadhilah, a 🍅-powered software engineer <br/> 
+  My name is Andhika Haidar Fadhilah, a 🍅-powered software engineer from 🇮🇩 <br/> 
   You can call me Dhika!
   
 <div>
