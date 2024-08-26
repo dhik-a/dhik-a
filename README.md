@@ -1,7 +1,7 @@
-## Hi there 👋
+# Hi there 👋
 
   ## My name is Andhika Haidar Fadhilah, a 🍅-powered software engineer <br/>
-  # You can call me Dhika!
+  ### You can call me Dhika!
   
 <div>
   Things I code with:
