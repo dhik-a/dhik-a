@@ -1,6 +1,6 @@
 # Hi there 👋
 
-  My name is Andhika Haidar Fadhilah, a 🍅-powered software engineer from <img src="https://github.com/lipis/flag-icons/blob/main/flags/1x1/id.svg"> <br/> 
+  My name is Andhika Haidar Fadhilah, a 🍅-powered software engineer from <img src="https://github.com/lipis/flag-icons/blob/main/flags/1x1/id.svg" title="🇮🇩" alt="🇮🇩" width="40" height="40"> <br/> 
   You can call me Dhika!
   
 <div>
