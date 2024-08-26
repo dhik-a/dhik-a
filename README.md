@@ -5,8 +5,10 @@
   You can call me Dhika!
   <br/>
   <br/>
-  Things I code with:
+<div>
+  Things I code with:  <br/>
 </div>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotilin" width="40" height="40"/>&nbsp;
 <div>
