@@ -1,7 +1,7 @@
 # Hi there 👋
 
   My name is Andhika Haidar Fadhilah, from Indonesia. <br />
-  Full-time Mobile App Developer 📱, Hobbyist Game Developer 🎮, and Average Tomato Enjoyer 🍅. <br/>
+  I am a Full-time Mobile App Developer 📱, Hobbyist Game Developer 🎮, and Average Tomato Enjoyer 🍅. <br/>
   You can call me Dhika. <br/>
   
 <div>
