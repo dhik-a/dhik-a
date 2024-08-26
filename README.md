@@ -4,9 +4,8 @@
   I am a Full-time Mobile App Developer 📱, Hobbyist Game Developer 🎮, and Average Tomato Enjoyer 🍅. <br/>
   You can call me Dhika. <br/>
   
-<div>
-  Things I code with:
-</div>
+## Things I code with:
+
 <div>
   <br/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
@@ -16,3 +15,5 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg" title="Godot" alt="Godot" width="40" height="40"/>&nbsp;
   <br/>
 <div>
+
+
