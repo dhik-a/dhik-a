@@ -1,7 +1,6 @@
 # Hi there 👋
 
-  Dhika is here. 
-  A 🍅-powered software engineer from <img src="https://github.com/lipis/flag-icons/blob/main/flags/1x1/id.svg" title="🇮🇩" alt="🇮🇩" width="40" height="40"> <br/>
+  My name is Andhika Haidar Fadhilah, a software engineer from Indonesia <img src="https://github.com/alexerlandsson/flag-icons/blob/master/flags/id.png" width="40" height="40"> <br/>
   
 <div>
   Things I code with:
