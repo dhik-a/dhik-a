@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <div>
-  My name is Andhika Haidar Fadhilah, a software engineer with great love for 🍚 🍝 and 🍅<br/>
+  My name is Andhika Haidar Fadhilah, a 🍅-powered software engineer <br/>
   You can call me Dhika!
   <br/>
   <br/>
@@ -11,6 +11,7 @@
 <div>
   <br/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotilin" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Swift" alt="Swift" width="40" height="40"/>&nbsp;
   <br/>
 <div>
