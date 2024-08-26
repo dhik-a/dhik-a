@@ -4,7 +4,7 @@
   I am a Full-time Mobile App Developer 📱, Hobbyist Game Developer 🎮, and Average Tomato Enjoyer 🍅. <br/>
   You can call me Dhika. <br/>
   
-## Things I code with:
+### Things I code with 👨‍💻:
 
 <div>
   <br/>
