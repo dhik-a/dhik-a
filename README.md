@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Andhika Haidar Fadhilah, a software engineer with great love for 🍚 🍝 and 🍅
+My name is Andhika Haidar Fadhilah, a software engineer with great love for 🍚 🍝 and 🍅&nbsp;
 You can call me Dhika!
 
 Things I code with:
