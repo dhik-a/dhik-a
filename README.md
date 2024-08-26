@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <div>
-  My name is Andhika Haidar Fadhilah, a software engineer with great love for 🍚 🍝 and 🍅>/br>
+  My name is Andhika Haidar Fadhilah, a software engineer with great love for 🍚 🍝 and 🍅<br/>
   You can call me Dhika!
   <br/>
   <br/>
