@@ -23,6 +23,6 @@ Rumah123 is a market-leading property portal in Indonesia with at least 300K act
 https://play.google.com/store/apps/details?id=mbank.sumut&hl=id
 https://apps.apple.com/id/app/sumut-mobile/id1089844839?l=id
 
-PT Bank SUMUT (Sumatera Utara) is a local bank from North Sumatra, Indonesia. As a government-owned local bank, Bank SUMUT has been used by all civil servants working in North Sumatra for financial transactions including payroll. With so many users, our goal was to build an app that can make it easier for less tech-savvy people to use various services provided by Bank SUMUT. I was responsible for building the app in Flutter and continuously adding new features such as QRIS payment and money transfer via BI Fast.
+PT Bank SUMUT (Sumatera Utara) is a local bank from North Sumatra, Indonesia. As a government-owned local bank, Bank SUMUT has been used by all civil servants working in North Sumatra for financial transactions including payroll. With so many users, our goal was to build a banking app that can make it easier for less tech-savvy people to use various services provided by Bank SUMUT. I was responsible for maintaining the SUMUT Mobile app using Swift, and then later migrating the codebase to Flutter.
 
 
