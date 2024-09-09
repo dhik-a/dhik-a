@@ -38,6 +38,19 @@ Rumah123 is a market-leading property portal in Indonesia with at least 300K act
 </div>
 
 
-PT Bank SUMUT (Sumatera Utara) is a local bank from North Sumatra, Indonesia. As a government-owned local bank, Bank SUMUT has been used by all civil servants working in North Sumatra for financial transactions including payroll. With so many users, our goal was to build a banking app that can make it easier for less tech-savvy people to use various services provided by Bank SUMUT. I was responsible for maintaining the i SUMUT Mobile app using Swift, and then later migrating the codebase to Flutter.
+PT Bank SUMUT (Sumatera Utara) is a local bank from North Sumatra, Indonesia. As a government-owned local bank, Bank SUMUT has been used by all civil servants working in North Sumatra for financial transactions including payroll and cash transfer/withdrawal. With so many users, our goal was to build a banking app that can make it easier for less tech-savvy people to use digital services provided by Bank SUMUT. And so this app was born and evolved over time from native app to using cross-platform framework like Flutter as we continuously strive to quickly adapt its usability based on our core users' feedbacks.
 
+#
+
+### Bank NTB Syariah QR Merchant
+<div>
+  <a href="https://play.google.com/store/apps/details?id=mbank.ntbmerchant&hl=id"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" height="36">
+  </a>
+  <a href="https://apps.apple.com/us/app/ntb-syariah-merchant/id1585790207?platform=iphone"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Download_on_the_App_Store_Badge.svg" height="36">
+  </a>
+</div>
+
+Payment with QRIS (Quick Response Indonesian Standard) is one of the most popular payment method in Indonesia. PT Bank NTB Syariah as one of the government-owned local banks from the province of Nusa Tenggara Barat hoped to provide its users--specifically, owners of small business--an opportunity to implement QRIS payment as enhancement for their business. For that reason, we explored the possibilities of an app that is capable of facilitating QRIS-based transactions.
 
