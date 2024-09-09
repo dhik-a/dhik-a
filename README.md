@@ -13,7 +13,7 @@ Dhika here, a software developer who build apps ðŸ“± for living and make games ð
 
 ### Things I have built ðŸ”§:
 
-### Rumah123 App
+### Rumah123
 <div>
   <a href="https://play.google.com/store/apps/details?id=com.rumah123&hl=id"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" height="36">
@@ -23,9 +23,21 @@ Dhika here, a software developer who build apps ðŸ“± for living and make games ð
   </a>
 </div>
 
-Rumah123 is a market-leading property portal in Indonesia with at least 300K active users. Our goal is to connect property agents and homeowners with potential buyers/renters in various big cities in Indonesia. I was part of the special team assigned to rebuild the Rumah123 App using Flutter and responsible for the app's continuous improvement since.
+Rumah123 is a market-leading property portal in Indonesia with at least 300K active users. Our goal is to connect property agents and real estate developers with potential buyers/renters in various big cities in Indonesia. I was part of the special team assigned to rebuild the Rumah123 App using Flutter and responsible for the app's continuous improvement since.
 
 #
+
+### 99.co Indonesia
+<div>
+  <a href="https://play.google.com/store/apps/details?id=com.urbanindo.android&hl=id"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" height="36">
+  </a>
+  <a href="https://apps.apple.com/id/app/99-co-indonesia/id787339517"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Download_on_the_App_Store_Badge.svg" height="36">
+  </a>
+</div>
+
+Property portal for ordinary home-owners who want to sell their house and people who seek secondary properties. Subsidiary of Singapore-based 99.co, adjusted to fit with Indonesia's market. Still under the same management, 99.co Indonesia is designed to fill the niche that is not yet reached by Rumah123.
 
 ### SUMUT Mobile
 <div>
