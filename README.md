@@ -14,7 +14,7 @@ Dhika here, a software developer who build apps 📱 for living and make games �
 ### Things I have built 🔧:
 
 ### Rumah123 App
-<a href="https://play.google.com/store/apps/details?id=com.rumah123&hl=id"> <img src="[https://en.m.wikipedia.org/wiki/File:Google_Play_Store_badge_EN.svg](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)"></a> </br>
+<a href="https://play.google.com/store/apps/details?id=com.rumah123&hl=id"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg"></a> </br>
 https://apps.apple.com/id/app/rumah123/id644854546 </br>
 
 Rumah123 is a market-leading property portal in Indonesia with at least 300K active users. Our goal is to connect property agents and homeowners with potential buyers/renters in various big cities in Indonesia. I was part of the special team assigned to rebuild the Rumah123 App using Flutter and responsible for the app's continuous improvement since.
