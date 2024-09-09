@@ -15,10 +15,10 @@ Dhika here, a software developer who build apps ðŸ“± for living and make games ð
 
 ### Rumah123 App
 <a href="https://play.google.com/store/apps/details?id=com.rumah123&hl=id"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" height="120">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" height="36">
 </a>
-<a href="[https://play.google.com/store/apps/details?id=com.rumah123&hl=id](https://apps.apple.com/id/app/rumah123/id644854546)"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Download_on_the_App_Store_Badge.svg" height="120">
+<a href="https://apps.apple.com/id/app/rumah123/id644854546"> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Download_on_the_App_Store_Badge.svg" height="36">
 </a>
 </br>
 
