@@ -1,6 +1,6 @@
 # Hi there 👋
 
-Dhika here. I'm a mobile and front-end dev. Interested in building interesting stuff 🔨 <br />
+Dhika here. I'm a mobile and front-end dev. Interested in building interesting stuff. <br />
   
 ### Things I code with 👨‍💻:
 
