@@ -1,7 +1,7 @@
 # Hi there 👋
 
 Dhika here. <br />
-I'm a mobile and front-end dev. Interested in building interesting stuff. <br />
+I'm a software dev with special interest in mobile and front-end development. <br />
   
 ### Things I code with 👨‍💻:
 
