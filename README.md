@@ -1,6 +1,6 @@
 # Hi there 👋
 
-Dhika here, a software developer who build apps 📱 for living and make games 🎮 for fun (Sisyphus-style) 🪨. <br />
+Dhika here. I'm a mobile and front-end dev. Interested in building interesting stuff 🔨 <br />
   
 ### Things I code with 👨‍💻:
 
