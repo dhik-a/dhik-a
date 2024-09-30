@@ -58,6 +58,21 @@ PT Bank SUMUT (Sumatera Utara) is a local bank from North Sumatra, Indonesia. As
 
 #
 
+### Bank Kalteng SMS Banking
+<div>
+  <a href="https://play.google.com/store/apps/details?id=mbank.kalteng&hl=id"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" height="36">
+  </a>
+  <a href="https://apps.apple.com/id/app/bank-kalteng-sms-banking/id1551769356?l=id"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Download_on_the_App_Store_Badge.svg" height="36">
+  </a>
+</div>
+
+
+During the collaboration with PT Bank Kalimantan Tengah, a local bank from one of Indonesia's biggest regions, our goal was to build a mobile banking solution for people who lives in area where internet connection is not quite stable. The proposed solution was a system where the bank's users can perform financial transactions via SMS. My contribution to this project is building a modern mobile app where users can navigate through a menu of available transactions and perform SMS transactions as seamlessly as possible.
+
+#
+
 ### Bank NTB Syariah QR Merchant
 <div>
   <a href="https://play.google.com/store/apps/details?id=mbank.ntbmerchant&hl=id"> 
