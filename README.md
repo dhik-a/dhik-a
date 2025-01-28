@@ -1,7 +1,7 @@
 # Hi there 👋
 
 Dhika here. <br />
-I'm a software dev with special interest in mobile and front-end development. <br />
+Mobile and web apps developer. Currently dealing with Flutter, Android and iOS shenanigans. <br />
   
 ### Things I code with 👨‍💻:
 
@@ -9,8 +9,6 @@ I'm a software dev with special interest in mobile and front-end development. <b
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Swift" alt="Swift" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" alt="Javascript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="Javascript" alt="PHP" width="40" height="40"/>&nbsp;
 <div>
 
 ### Things I have built 🔧:
