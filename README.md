@@ -23,7 +23,7 @@ Mobile and web apps developer. Currently dealing with Flutter, Android and iOS s
   </a>
 </div>
 
-Rumah123 is a market-leading property portal in Indonesia with at least 300K active users. Our goal is to connect property agents and real estate developers with potential buyers/renters in various big cities in Indonesia. I was part of the special team assigned to rebuild the Rumah123 App using Flutter and responsible for the app's continuous improvement since.
+Rumah123 is a market-leading property portal in Indonesia with an average of 300K active users. Our goal is to connect property agents and real estate developers with potential buyers/renters in various big cities in Indonesia. I was part of the special team assigned to rebuild the Rumah123 App using Flutter and responsible for the app's continuous improvement since.
 
 #
 
